@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @zainab153
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on and learn java coding
-- 📫 How to reach me, just send me a message
-
-<!---
-zainab153/zainab153 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Arduino Traffic light consists of three LEDs (red, yellow, and green) to simulate a real traffic signal. It cycles through red (stop), yellow (warning), and green (go) phases with appropriate delays. The yellow light blinks to indicate a transition, making the simulation more realistic.
