@@ -1,1 +1,2 @@
 Arduino Traffic light consists of three LEDs (red, yellow, and green) to simulate a real traffic signal. It cycles through red (stop), yellow (warning), and green (go) phases with appropriate delays. The yellow light blinks to indicate a transition, making the simulation more realistic.
+![69D30C89-717A-4E61-804A-6D4E54296E00](https://github.com/user-attachments/assets/7f525d85-7d24-4768-90cf-0dbd61bb771d)
